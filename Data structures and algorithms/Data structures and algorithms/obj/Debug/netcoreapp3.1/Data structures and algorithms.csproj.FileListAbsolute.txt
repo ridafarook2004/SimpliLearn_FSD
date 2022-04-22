@@ -1,0 +1,14 @@
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\bin\Debug\netcoreapp3.1\Data structures and algorithms.exe
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\bin\Debug\netcoreapp3.1\Data structures and algorithms.deps.json
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\bin\Debug\netcoreapp3.1\Data structures and algorithms.runtimeconfig.json
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\bin\Debug\netcoreapp3.1\Data structures and algorithms.runtimeconfig.dev.json
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\bin\Debug\netcoreapp3.1\Data structures and algorithms.dll
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\bin\Debug\netcoreapp3.1\Data structures and algorithms.pdb
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\obj\Debug\netcoreapp3.1\Data structures and algorithms.csproj.AssemblyReference.cache
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\obj\Debug\netcoreapp3.1\Data structures and algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\obj\Debug\netcoreapp3.1\Data structures and algorithms.AssemblyInfoInputs.cache
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\obj\Debug\netcoreapp3.1\Data structures and algorithms.AssemblyInfo.cs
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\obj\Debug\netcoreapp3.1\Data structures and algorithms.csproj.CoreCompileInputs.cache
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\obj\Debug\netcoreapp3.1\Data structures and algorithms.dll
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\obj\Debug\netcoreapp3.1\Data structures and algorithms.pdb
+C:\Users\rida_farook\source\SimpliLearn\Data structures and algorithms\Data structures and algorithms\obj\Debug\netcoreapp3.1\Data structures and algorithms.genruntimeconfig.cache
